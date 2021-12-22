@@ -1,4 +1,4 @@
-{
+[
     {
         "id": 1,
         "name": "Création d'une base de donnée",
@@ -17,4 +17,4 @@
         "createdAt": "2021-12-20T17:38:09.000Z",
         "updatedAt": "2021-12-20T17:38:09.000Z"
     }
-}
+]
